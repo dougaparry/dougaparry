@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dougaparry
-- 👀 I’m a lecturer in Informatics at Stellenbosch University in South Africa
+- 👀 I’m a senior lecturer in Informatics at Stellenbosch University in South Africa
 - 📫 For more info: https://dougaparry.com/
 
 <!---
