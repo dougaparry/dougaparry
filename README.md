@@ -3,10 +3,8 @@
 - 📫 For more info: https://dougaparry.com/
 
 🛠 Tech Stack
-
-💻 R, Python, SQL
-
-🔧 RStudio (Quarto, Rmd), Visual Studio Code 
+- 💻 R, Python, SQL
+- 🔧 RStudio (Quarto, Rmd), Visual Studio Code 
 
 <!---
 dougaparry/dougaparry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
