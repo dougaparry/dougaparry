@@ -3,7 +3,9 @@
 - 📫 For more info: https://dougaparry.com/
 
 🛠 Tech Stack
+
 💻 R, Python, SQL
+
 🔧 RStudio (Quarto, Rmd), Visual Studio Code 
 
 <!---
